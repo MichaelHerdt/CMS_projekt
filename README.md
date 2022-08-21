@@ -15,4 +15,4 @@
 ### Open the website in your browser
 - go to your Browser
 - type "localhost in your searchbar"
-
+- click on public 
